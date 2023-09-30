@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fseehawer/react-circular-slider": "^2.6.1",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-circular-input": "^0.2.4",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "eslint": "latest",
